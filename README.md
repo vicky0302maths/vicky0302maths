@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @vicky0302maths
-- 👀 I’m interested in science and arr
+- 👋 Hi, I’m @Vicky0302maths
+- 👀 I’m interested in science and art
 - 🌱 I’m currently learning data science and violin
 - 💞️ I’m applying my PhD degree
 - 📫 How to reach me by little-red-book and bilibili
